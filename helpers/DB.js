@@ -46,6 +46,6 @@ module.exports = {
 	removeSession
 }
 
-// ESTRAT…GIA ZAP DAS GAL¡XIAS
-// ZDG © 2020
+// ESTRAT√âGIA ZAP DAS GAL√ÅXIAS
+// ZDG ¬© 2020
 // www.zapdasgalaxias.com.br  
