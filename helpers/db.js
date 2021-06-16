@@ -2,7 +2,7 @@ const { query } = require('express-validator');
 const { Client } = require('pg');
 
 const client = new Client({
-	connectionString: 'postgres://wogdwglpuivptj:be4538a10f348cf63bd1bb048492b93f61377e4254496b3e2b3a96179aed23af@ec2-18-214-140-149.compute-1.amazonaws.com:5432/d91oc7maghb3kq',
+	connectionString: 'postgres://ltrermwgxhvbvl:7bd415982b7e60e456ef5d398f96fe6af9442316ff2b9628192d753778832870@ec2-34-195-143-54.compute-1.amazonaws.com:5432/d6kvv82nv8f9ds',
 ssl: {
 rejectUnauthorized: false
 }
